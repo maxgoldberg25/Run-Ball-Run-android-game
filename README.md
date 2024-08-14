@@ -27,16 +27,22 @@ Run Ball Run is an exciting and fast-paced Android game developed using the Unit
 
 To play Run Ball Run on your Android device, follow these steps:
 
-1. Download the APK from the [Releases](https://github.com/yourusername/run-ball-run/releases) page.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/maxgoldberg25/Run-Ball-Run-android-game.git
+    cd run-ball-run
+    ```
 
-2. Transfer the APK file to your Android device.
+2. Run the game by executing `Run Ball Run!.exe`:
+    ```bash
+    ./Run\ Ball\ Run!.exe
+    ```
 
-3. On your Android device, enable installation from unknown sources in the security settings.
+3. Follow the on-screen instructions to start playing the game.
 
-4. Locate the APK file on your device and tap to install.
+## Note
 
-5. Once installed, open the game and start running!
-
+This game is designed for Android devices. When ran, the game will open in a desktop view.
 ## Gameplay
 
 - **Objective**: Guide the ball to the finish line while avoiding obstacles and collecting power-ups.
